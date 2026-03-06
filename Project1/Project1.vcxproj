@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="..\README.md" />
+    <None Include="build.sh" />
     <None Include="main.asm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

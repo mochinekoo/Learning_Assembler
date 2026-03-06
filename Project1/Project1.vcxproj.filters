@@ -21,5 +21,6 @@
     <None Include="..\README.md">
       <Filter>ソース ファイル</Filter>
     </None>
+    <None Include="build.sh" />
   </ItemGroup>
 </Project>
